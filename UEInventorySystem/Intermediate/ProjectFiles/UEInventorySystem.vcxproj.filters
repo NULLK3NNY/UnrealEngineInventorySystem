@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEInventorySystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEInventorySystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEInventorySystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEInventorySystem">
+      <UniqueIdentifier>{C596DF86-C746-3DEB-AC67-3D1382ADC51D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEInventorySystem\UEInventorySystem.Build.cs">
+      <Filter>Source\UEInventorySystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystem.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\UEInventorySystem.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystemCharacter.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\UEInventorySystemCharacter.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystemGameMode.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\UEInventorySystemGameMode.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystemPlayerController.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\UEInventorySystemPlayerController.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat">
+      <UniqueIdentifier>{F9A9FB5C-3FC7-3F3D-8E95-3E9B8AED0D3B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat\AI">
+      <UniqueIdentifier>{AA252687-9081-3CB4-836F-64F87E0A1D24}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat\Animation">
+      <UniqueIdentifier>{AE230EF1-01E2-39C7-863D-323724103B5A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{FD461554-008B-361C-8030-90DFCC466724}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{39191F69-B59D-300A-A8B1-D3BA85799683}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Combat\UI">
+      <UniqueIdentifier>{2BF47F5F-4CE9-34E0-9331-A28E24752BEA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\UEInventorySystem\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Platforming">
+      <UniqueIdentifier>{B6502C81-1843-3E9B-87FC-CB442FCE6CD7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\UEInventorySystem\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_Platforming\Animation">
+      <UniqueIdentifier>{BA283F59-0642-3758-A8D8-88A591FFD8D5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\UEInventorySystem\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\UEInventorySystem\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_SideScrolling">
+      <UniqueIdentifier>{741B39CD-9BEB-3F15-AE1D-A8CA0E73368F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{C427409C-8B7B-3226-9C1F-6917E0ABEC2B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{BA0F566A-73C4-3560-8C3E-5BEB3DAA1A18}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{53ABAD8D-E6D7-3BB7-B946-45A816441910}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\UEInventorySystem\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{597962FC-893A-30D9-95F8-6720CAFC97B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\UEInventorySystem\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

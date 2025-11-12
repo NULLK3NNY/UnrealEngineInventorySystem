@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kenny\\Documents\\GitHub\\UnrealEngineInventorySystem\\UEInventorySystem\\Source\\UEInventorySystem\\UEInventorySystem.Build.cs",
+		"C:\\Users\\kenny\\Documents\\GitHub\\UnrealEngineInventorySystem\\UEInventorySystem\\Source\\UEInventorySystem.Target.cs",
+		"C:\\Users\\kenny\\Documents\\GitHub\\UnrealEngineInventorySystem\\UEInventorySystem\\Source\\UEInventorySystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

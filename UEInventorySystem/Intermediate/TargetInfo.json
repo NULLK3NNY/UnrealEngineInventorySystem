@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UEInventorySystem",
+			"Path": "..\\Source\\UEInventorySystem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UEInventorySystemEditor",
+			"Path": "..\\Source\\UEInventorySystemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
