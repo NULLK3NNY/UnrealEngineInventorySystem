@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEInventorySystem-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UEInventorySystemEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/UEInventorySystem/Module.UEInventorySystem.1.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/UEInventorySystem/Module.UEInventorySystem.2.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/UEInventorySystem/Module.UEInventorySystem.3.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/UEInventorySystem/Default.rc2.res"
+/OUT:"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/UEInventorySystem/UnrealEditor-UEInventorySystem-Win64-DebugGame.lib"

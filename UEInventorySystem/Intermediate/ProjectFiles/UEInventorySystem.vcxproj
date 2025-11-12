@@ -252,11 +252,16 @@
     <None Include="..\..\UEInventorySystem.uproject"/>
     <None Include="..\..\Source\UEInventorySystem.Target.cs"/>
     <None Include="..\..\Source\UEInventorySystemEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryItem.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryItem.h"/>
     <None Include="..\..\Source\UEInventorySystem\UEInventorySystem.Build.cs"/>
     <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystem.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

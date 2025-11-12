@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UEInventorySystemEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\UEInventorySystem">
       <UniqueIdentifier>{C596DF86-C746-3DEB-AC67-3D1382ADC51D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryItem.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryItem.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UEInventorySystem\UEInventorySystem.Build.cs">
       <Filter>Source\UEInventorySystem</Filter>
     </None>
