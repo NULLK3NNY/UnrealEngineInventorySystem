@@ -25,6 +25,10 @@
 		],
 		"Module.UEInventorySystem.2.cpp.obj": [
 			"EnvQueryContext_Player.gen.cpp.obj",
+			"Interactable.gen.cpp.obj",
+			"InventoryActorComponent.gen.cpp.obj",
+			"InventoryItem.gen.cpp.obj",
+			"ManPickup.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
@@ -46,7 +50,13 @@
 			"UEInventorySystemGameMode.gen.cpp.obj",
 			"UEInventorySystemPlayerController.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"Interactable.cpp.obj"
+		],
+		"Module.UEInventorySystem.3.cpp.obj": [
+			"InventoryActorComponent.cpp.obj",
+			"InventoryGameState.cpp.obj",
 			"InventoryItem.cpp.obj",
+			"ManPickup.cpp.obj",
 			"UEInventorySystem.cpp.obj",
 			"UEInventorySystemCharacter.cpp.obj",
 			"UEInventorySystemGameMode.cpp.obj",
@@ -72,9 +82,7 @@
 			"CombatDamageable.cpp.obj",
 			"CombatLifeBar.cpp.obj",
 			"AnimNotify_EndDash.cpp.obj",
-			"PlatformingCharacter.cpp.obj"
-		],
-		"Module.UEInventorySystem.3.cpp.obj": [
+			"PlatformingCharacter.cpp.obj",
 			"PlatformingGameMode.cpp.obj",
 			"PlatformingPlayerController.cpp.obj",
 			"SideScrollingAIController.cpp.obj",

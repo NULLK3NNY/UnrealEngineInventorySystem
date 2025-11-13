@@ -258,10 +258,26 @@
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Interactable.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Interactable.h"/>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryActorComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryActorComponent.h"/>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryGameState.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryGameState.h"/>
     <ClCompile Include="..\..\Source\UEInventorySystem\InventoryItem.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\UEInventorySystem\InventoryItem.h"/>
+    <ClCompile Include="..\..\Source\UEInventorySystem\ManPickup.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\ManPickup.h"/>
     <None Include="..\..\Source\UEInventorySystem\UEInventorySystem.Build.cs"/>
     <ClCompile Include="..\..\Source\UEInventorySystem\UEInventorySystem.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

@@ -33,10 +33,34 @@
     <Filter Include="Source\UEInventorySystem">
       <UniqueIdentifier>{C596DF86-C746-3DEB-AC67-3D1382ADC51D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UEInventorySystem\Interactable.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\Interactable.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryActorComponent.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryActorComponent.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\InventoryGameState.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\InventoryGameState.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\UEInventorySystem\InventoryItem.cpp">
       <Filter>Source\UEInventorySystem</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UEInventorySystem\InventoryItem.h">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEInventorySystem\ManPickup.cpp">
+      <Filter>Source\UEInventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEInventorySystem\ManPickup.h">
       <Filter>Source\UEInventorySystem</Filter>
     </ClInclude>
     <None Include="..\..\Source\UEInventorySystem\UEInventorySystem.Build.cs">

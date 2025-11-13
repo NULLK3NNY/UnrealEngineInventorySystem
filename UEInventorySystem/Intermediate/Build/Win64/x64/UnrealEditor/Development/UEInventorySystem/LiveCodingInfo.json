@@ -25,7 +25,11 @@
 		],
 		"Module.UEInventorySystem.2.cpp.obj": [
 			"EnvQueryContext_Player.gen.cpp.obj",
+			"Interactable.gen.cpp.obj",
+			"InventoryActorComponent.gen.cpp.obj",
+			"InventoryGameState.gen.cpp.obj",
 			"InventoryItem.gen.cpp.obj",
+			"ManPickup.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
@@ -45,9 +49,15 @@
 			"UEInventorySystem.init.gen.cpp.obj",
 			"UEInventorySystemCharacter.gen.cpp.obj",
 			"UEInventorySystemGameMode.gen.cpp.obj",
-			"UEInventorySystemPlayerController.gen.cpp.obj",
+			"UEInventorySystemPlayerController.gen.cpp.obj"
+		],
+		"Module.UEInventorySystem.3.cpp.obj": [
 			"PerModuleInline.gen.cpp.obj",
+			"Interactable.cpp.obj",
+			"InventoryActorComponent.cpp.obj",
+			"InventoryGameState.cpp.obj",
 			"InventoryItem.cpp.obj",
+			"ManPickup.cpp.obj",
 			"UEInventorySystem.cpp.obj",
 			"UEInventorySystemCharacter.cpp.obj",
 			"UEInventorySystemGameMode.cpp.obj",
@@ -65,9 +75,7 @@
 			"CombatPlayerController.cpp.obj",
 			"CombatActivationVolume.cpp.obj",
 			"CombatCheckpointVolume.cpp.obj",
-			"CombatDamageableBox.cpp.obj"
-		],
-		"Module.UEInventorySystem.3.cpp.obj": [
+			"CombatDamageableBox.cpp.obj",
 			"CombatDummy.cpp.obj",
 			"CombatLavaFloor.cpp.obj",
 			"CombatActivatable.cpp.obj",

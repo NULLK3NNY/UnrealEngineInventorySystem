@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEInventorySystem-4898.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UEInventorySystemEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEInventorySystem/Module.UEInventorySystem.1.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEInventorySystem/Module.UEInventorySystem.2.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEInventorySystem/Module.UEInventorySystem.3.cpp.obj"
+"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEInventorySystem/Default.rc2.res"
+/OUT:"C:/Users/kenny/Documents/GitHub/UnrealEngineInventorySystem/UEInventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEInventorySystem/UnrealEditor-UEInventorySystem-4898.lib"

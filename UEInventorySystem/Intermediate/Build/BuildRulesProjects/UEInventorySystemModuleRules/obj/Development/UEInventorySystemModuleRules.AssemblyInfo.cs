@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UEInventorySystemModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc2cbf34ae86b5796ec5df98dc15b86d8fe365ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a487019ac106c1d22c6842515fb38392156ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("UEInventorySystemModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UEInventorySystemModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
